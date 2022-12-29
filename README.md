@@ -66,3 +66,7 @@
 }
 
 Токен можем получить при регистрации или логина
+
+// Запрос по header
+
+(Ключ)Authorization: (Значение)Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzYWQ2NDgzMjA3NTk0MWIwMGU0N2U4OCIsInVzZXJuYW1lIjoidGVzdDI0Njc4IiwiZXhwIjoxNjc3NDkyMjkxLCJpYXQiOjE2NzIzMDgyOTF9.Ib1sjI_Q9pDtvWUbR_SVlYbtscyXAKREjEOqjwS0u3E
