@@ -70,3 +70,12 @@
 // Запрос по header
 
 (Ключ)Authorization: (Значение)Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzYWQ2NDgzMjA3NTk0MWIwMGU0N2U4OCIsInVzZXJuYW1lIjoidGVzdDI0Njc4IiwiZXhwIjoxNjc3NDkyMjkxLCJpYXQiOjE2NzIzMDgyOTF9.Ib1sjI_Q9pDtvWUbR_SVlYbtscyXAKREjEOqjwS0u3E
+
+// Ответ
+{
+"user": {
+"username": "test24678",
+"email": "test24678@yandex.ru",
+"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzYWQ2NDgzMjA3NTk0MWIwMGU0N2U4OCIsInVzZXJuYW1lIjoidGVzdDI0Njc4IiwiZXhwIjoxNjc3NDkzNzc3LCJpYXQiOjE2NzIzMDk3Nzd9.NTky66tUYUyM-FY3zVar31OACXmsWGOMZj-zVTSDJLg"
+}
+}
